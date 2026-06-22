@@ -1,4 +1,4 @@
-const CACHE_NAME = 'stundenlohn-rechner-v2';
+const CACHE_NAME = 'stundenlohn-rechner-v3';
 const APP_FILES = [
   './',
   './index.html',
